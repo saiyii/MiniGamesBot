@@ -22,7 +22,7 @@ MiniGamesBot is a fun and competitive bot for Discord, offering a variety of min
 🏆 Arcade Championship – Compete in weekly tournaments.
 
 
-# 🏆 Leaderboard & Rewards
+### 🏆 Leaderboard & Rewards  SOON !
 Earn points by winning mini-games.
 
 Live leaderboard updates.
@@ -49,7 +49,6 @@ In some games, spies can cheat (e.g., manipulate their results) but risk being e
 
 /leaderboard - Show the top players 
 
-/settings - Customize the bot features
 
 
 # 🚀 Setup
